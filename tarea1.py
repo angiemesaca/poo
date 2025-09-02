@@ -7,3 +7,5 @@ for numero in range (2,51):
     for division in range (2, numero):
         if numero % division == 0 :
             primo = false
+
+if primo == True
