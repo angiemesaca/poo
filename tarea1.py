@@ -8,4 +8,5 @@ for numero in range (2,51):
         if numero % division == 0 :
             primo = false
 
-if primo == True
+if primo == True:
+    print (numero)
