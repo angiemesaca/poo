@@ -18,3 +18,4 @@ mi_perro = Perro("marron","6","cocker","Sasha")
 
 mi_perro.comer()
 mi_perro.acariciar()
+mi_perro.pasear()
